@@ -7,7 +7,12 @@ from tools.config import api, reddit_user
 
 
 class Reddit:
-    def __init__(self):
+    def __init__(self, params = dict()):
+        if isinstance(params, dict):
+            self.params = params
+        else:
+            self.params = dict()
+        
         auth = requests.auth.HTTPBasicAuth(*api.values())
 
         login_data = reddit_user
@@ -28,7 +33,7 @@ class Reddit:
 
         
     def open(self, url):
-        return requests.get(url, headers=self.headers).json()
+        return requests.get(url, headers=self.headers, params=self.params).json()
 
 
     @staticmethod
