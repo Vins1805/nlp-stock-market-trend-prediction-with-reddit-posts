@@ -4,6 +4,8 @@ IO = {
     "BASE": "https://oauth.reddit.com/",
     "SUBR": {
         "STOCKMARKET": "r/StockMarket/",
+        "SECURITYANALYSIS": "r/SecurityAnalysis/",
+        "WALLSTREETBETS": "r/wallstreetbets/",
         },
     "LIST": {
         "HOT": "hot/",

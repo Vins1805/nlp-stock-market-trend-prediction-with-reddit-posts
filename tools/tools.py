@@ -130,24 +130,36 @@ class Reddit:
         return df
 
 
-    def bulk_store_threads(self, url, n=1): #TODO store day or day range wise
+    def bulk_store_threads(self, url, n=1):
+        df = pd.DataFrame()
+        
         for i in range(n):
             params = self.params
             if i > 0:
                 params["after"] = df.id.iloc[-1]
-            df = self.get_threads(url, params)
-            filepath = IO["OUTPUT"]["THREADS"] + f"{df.subreddit.iloc[i]} --from_date {df.created_at.min().date()} --to_date {df.created_at.max().date()}.pd"
-            print(filepath)
-            df.to_pickle(filepath)
+            df = pd.concat([df, self.get_threads(url, params)], sort=False)
+            
+        df = df.sort_values("created_at")
+        df["created_at"] = df.created_at.apply(lambda date: date.date())
+        df.reset_index(inplace=True)
+        
+        filepath = IO["OUTPUT"]["THREADS"] + f"{df.subreddit.iloc[0]}\\"
 
-    def load_threads(self):
+        for date, sub_df in df.groupby("created_at"):
+            fp = filepath + f"{date}.pd"
+            df.to_pickle(fp)
+            
+
+    def load_threads(self): # todo add parser to load specifc dates
         filepath = IO["OUTPUT"]["THREADS"]
         files = os.listdir(filepath)
+
+        cols_to_select = ["selftext", "title"]
         df = pd.DataFrame()
         
         for file in files:
             df2 = pd.read_pickle(os.path.join(filepath, file))
-            df = pd.concat([df, df2[["selftext", "title"]]])
+            df = pd.concat([df, df2], sort=False)
 
         return df
             
