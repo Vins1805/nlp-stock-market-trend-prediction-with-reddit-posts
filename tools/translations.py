@@ -1,3 +1,5 @@
+import os
+
 IO = {
     "BASE": "https://oauth.reddit.com/",
     "SUBR": {
@@ -11,9 +13,12 @@ IO = {
         "TOP": "top/",
         "CONTROVERSIAL": "controversial/",
         },
+    "OUTPUT": {
+        "THREADS": os.getcwd() + os.sep + "data" + os.sep
+        }
     }
 
-POST_TYPE = {
+REDDIT_TYPE = {
     "t1": "Comment",
     "t2": "Account",
     "t3": "Link",

@@ -12,7 +12,7 @@ r = Reddit(params)
 url = IO["BASE"] + IO["SUBR"]["STOCKMARKET"] + IO["LIST"]["HOT"]
 print(url)
 
-print(r.pretty(r.open(url)))
+#print(r.pretty(r.open(url)))
 #print(r.open(url))
 
 
