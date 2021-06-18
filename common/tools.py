@@ -2,16 +2,18 @@ import requests
 import json
 import pandas as pd
 from datetime import datetime as dt
-from tools.translations import REDDIT_TYPE, IO
+from common.translations import REDDIT_TYPE, IO
 import os
 
 # https://www.reddit.com/prefs/apps
-from tools.config import api, reddit_user
-
+from common.config import api, reddit_user
 
 
 class Reddit:
-    def __init__(self):       
+    def __init__(self):
+        self.filepath = IO["OUTPUT"]["THREADS"]
+        self.subreddits = os.listdir(self.filepath)
+        
         auth = requests.auth.HTTPBasicAuth(*api.values())
 
         login_data = reddit_user
@@ -29,6 +31,7 @@ class Reddit:
         TOKEN = res.json()["access_token"]
 
         self.headers["Authorization"] = f"bearer {TOKEN}"
+
 
     @property
     def params(self):
@@ -83,6 +86,7 @@ class Reddit:
                 **award_counts
                 }, ignore_index=True)
         return df
+
 
     def get_comments(self, data, params=None):
         if not data:
@@ -146,22 +150,25 @@ class Reddit:
         filepath = IO["OUTPUT"]["THREADS"] + f"{df.subreddit.iloc[0]}\\"
 
         for date, sub_df in df.groupby("created_at"):
+            if date == df.created_at.min():
+                # the last date is propably not complete
+                print("SKIP:", date)
+                continue
             fp = filepath + f"{date}.pd"
+            print(fp)
             df.to_pickle(fp)
             
 
-    def load_threads(self): # todo add parser to load specifc dates
-        filepath = IO["OUTPUT"]["THREADS"]
-        files = os.listdir(filepath)
-
-        cols_to_select = ["selftext", "title"]
+    def load_raw_text(self, filepath): # todo add parser to load specifc dates
+        cols_to_select = ["title", "selftext"]
         df = pd.DataFrame()
+        files = os.listdir(filepath)
         
         for file in files:
             df2 = pd.read_pickle(os.path.join(filepath, file))
             df = pd.concat([df, df2], sort=False)
 
-        return df
+        return df[cols_to_select]
             
             
     
