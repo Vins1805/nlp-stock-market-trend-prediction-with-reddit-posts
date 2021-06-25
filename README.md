@@ -1,6 +1,7 @@
 # NLP Stock Market Trend Prediction with Reddit posts
 
 [miro board](https://miro.com/app/board/o9J_lBDvOuI=/)
+[GoogleDocument](https://docs.google.com/document/d/1Dql86FyeYnEGRnSwgSojlopqGhaHTKbB_7qFb4Vx1gs/edit?usp=sharing)
 
 ## References
 

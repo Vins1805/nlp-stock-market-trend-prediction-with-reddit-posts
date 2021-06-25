@@ -159,8 +159,8 @@ class Reddit:
             df.to_pickle(fp)
             
 
-    def load_raw_text(self, filepath): # todo add parser to load specifc dates
-        cols_to_select = ["title", "selftext"]
+    def load_raw_text(self, filepath, add_cols=[]): # todo add parser to load specifc dates
+        cols_to_select = ["title", "selftext", "created_at"] + add_cols
         df = pd.DataFrame()
         files = os.listdir(filepath)
         
@@ -168,7 +168,7 @@ class Reddit:
             df2 = pd.read_pickle(os.path.join(filepath, file))
             df = pd.concat([df, df2], sort=False)
 
-        return df[cols_to_select]
+        return df[cols_to_select].sort_values("created_at", ascending=False).drop_duplicates().reset_index(drop=True)
             
             
     
