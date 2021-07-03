@@ -1,5 +1,4 @@
 import requests
-import json
 import pandas as pd
 from datetime import datetime as dt
 from common.translations import REDDIT_TYPE, IO
@@ -22,7 +21,7 @@ class Reddit:
         self.headers = {"User-Agent": "NLP-Script"}
 
         res = requests.post(
-            "https://www.reddit.com/api/v1/access_token",
+            f"https://www.reddit.com/api/v1/access_token",
             auth=auth,
             data=login_data,
             headers=self.headers
@@ -39,7 +38,7 @@ class Reddit:
             "limit": "100",
             }
         return params.copy()
-        
+
 
     def pretty(self, input_json: dict) -> str:
         return json.dumps(input_json, indent=4, sort_keys=True)
@@ -88,16 +87,29 @@ class Reddit:
         return df
 
 
-    def get_comments(self, data, params=None):
-        if not data:
-            return None
+    def get_comments(self, url, max_depth=2, params=None):
+        """
+        Url has to be the url part starting with r/<subreddit>/...
+        or a dictionary which gets created through recursion
+        """
+        if not url:
+            return []
+            
+        if isinstance(url, dict):
+            data = url
+        elif isinstance(url, str):
+            data = self.open(IO["BASE"] + url, params)[1]
+        else:
+            raise ValueError
         
-        if isinstance(data, str):
-            data = self.open(data, params)[1]
-
         df = pd.DataFrame()
         
         for comment in data["data"]["children"]:
+            if comment["kind"] == "more":
+                continue
+            if comment["data"]["depth"] >= max_depth:
+                continue
+            
             award_names = {
                 f"award_name{i}": award["name"]
                 for i, award in enumerate(comment["data"]["all_awardings"])
@@ -129,8 +141,8 @@ class Reddit:
                 **award_counts
                 }, ignore_index=True)
 
-            df = pd.concat([df, self.get_comments(comment["data"]["replies"])])
-            
+            if comment["data"]["replies"]:
+                df = pd.concat([df, self.get_comments(comment["data"]["replies"])], sort=False)
         return df
 
 
@@ -147,28 +159,37 @@ class Reddit:
         df["created_at"] = df.created_at.apply(lambda date: date.date())
         df.reset_index(inplace=True)
         
-        filepath = IO["OUTPUT"]["THREADS"] + f"{df.subreddit.iloc[0]}\\"
+        filepath = IO["OUTPUT"]["THREADS"] + f"{df.subreddit.iloc[0]}\\" + url.split("/")[-2].upper()
 
         for date, sub_df in df.groupby("created_at"):
             if date == df.created_at.min():
                 # the last date is propably not complete
                 print("SKIP:", date)
                 continue
-            fp = filepath + f"{date}.pd"
+            fp = filepath + f"\\{date}.pd"
             print(fp)
             df.to_pickle(fp)
             
 
-    def load_raw_text(self, filepath, add_cols=[]): # todo add parser to load specifc dates
-        cols_to_select = ["title", "selftext", "created_at"] + add_cols
+    def load_raw_text(self, filepath, cols_to_select=None): # todo add parser to load specifc dates
         df = pd.DataFrame()
         files = os.listdir(filepath)
         
-        for file in files:
-            df2 = pd.read_pickle(os.path.join(filepath, file))
-            df = pd.concat([df, df2], sort=False)
-
-        return df[cols_to_select].sort_values("created_at", ascending=False).drop_duplicates().reset_index(drop=True)
+        for file in files[::-1]:
             
+            df2 = pd.read_pickle(os.path.join(filepath, file))
+            if not df.empty:
+                existing_entries = df.id.to_list()
+                df = pd.concat([df, df2[~df2.id.isin(existing_entries)]], sort=False)
+            else:
+                df = pd.concat([df, df2], sort=False)
+
+        df = df.sort_values("created_at", ascending=False).reset_index(drop=True)
+
+        # TODO currently not optimal performance wise and also somehow downs are always 0
+        if cols_to_select:
+            return df[cols_to_select]
+        return df
+
             
     
