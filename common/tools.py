@@ -171,7 +171,7 @@ class Reddit:
             df.to_pickle(fp)
             
 
-    def load_raw_text(self, filepath, cols_to_select=None): # todo add parser to load specifc dates
+    def load_raw_text(self, filepath, cols_to_select=None):
         df = pd.DataFrame()
         files = os.listdir(filepath)
         
