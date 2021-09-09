@@ -1,0 +1,594 @@
+Symbol	Description
+A9H22	MSCI EAFE NTR Index {Mar 22}
+A9M21	MSCI EAFE NTR Index {Jun 21}
+A9M22	MSCI EAFE NTR Index {Jun 22}
+A9U21	MSCI EAFE NTR Index {Sep 21}
+A9U22	MSCI EAFE NTR Index {Sep 22}
+A9Z21	MSCI EAFE NTR Index {Dec 21}
+AFH22	MSCI USA Value {Mar 22}
+AFM21	MSCI USA Value {Jun 21}
+AFM22	MSCI USA Value {Jun 22}
+AFU21	MSCI USA Value {Sep 21}
+AFU22	MSCI USA Value {Sep 22}
+AFZ21	MSCI USA Value {Dec 21}
+AMH22	MSCI EM Asia NTR {Mar 22}
+AMM21	MSCI EM Asia NTR {Jun 21}
+AMM22	MSCI EM Asia NTR {Jun 22}
+AMU21	MSCI EM Asia NTR {Sep 21}
+AMU22	MSCI EM Asia NTR {Sep 22}
+AMZ21	MSCI EM Asia NTR {Dec 21}
+ANH22	MSCI Euro Index {Mar 22}
+ANM21	MSCI Euro Index {Jun 21}
+ANM22	MSCI Euro Index {Jun 22}
+ANU21	MSCI Euro Index {Sep 21}
+ANU22	MSCI Euro Index {Sep 22}
+ANZ21	MSCI Euro Index {Dec 21}
+AOH22	MSCI Pan-Euro Index {Mar 22}
+AOM21	MSCI Pan-Euro Index {Jun 21}
+AOM22	MSCI Pan-Euro Index {Jun 22}
+AOU21	MSCI Pan-Euro Index {Sep 21}
+AOU22	MSCI Pan-Euro Index {Sep 22}
+AOZ21	MSCI Pan-Euro Index {Dec 21}
+AR	Aussie/New Zealand
+ARH22	Aussie/New Zealand {Mar 22}
+ARM21	Aussie/New Zealand {Jun 21}
+ARM22	Aussie/New Zealand {Jun 22}
+ARU21	Aussie/New Zealand {Sep 21}
+ARZ21	Aussie/New Zealand {Dec 21}
+AS	Aussie/Canadian
+ASH22	Aussie/Canadian {Mar 22}
+ASM21	Aussie/Canadian {Jun 21}
+ASM22	Aussie/Canadian {Jun 22}
+ASU21	Aussie/Canadian {Sep 21}
+ASZ21	Aussie/Canadian {Dec 21}
+AU	Australian Dollar
+AUH22	Australian Dollar {Mar 22}
+AUM21	Australian Dollar {Jun 21}
+AUM22	Australian Dollar {Jun 22}
+AUU21	Australian Dollar {Sep 21}
+AUZ21	Australian Dollar {Dec 21}
+CC	Cocoa
+CCH22	Cocoa {Mar 22}
+CCH23	Cocoa {Mar 23}
+CCK22	Cocoa {May 22}
+CCK23	Cocoa {May 23}
+CCN21	Cocoa {Jul 21}
+CCN22	Cocoa {Jul 22}
+CCU21	Cocoa {Sep 21}
+CCU22	Cocoa {Sep 22}
+CCZ21	Cocoa {Dec 21}
+CCZ22	Cocoa {Dec 22}
+CT	Cotton #2
+CTH22	Cotton #2 {Mar 22}
+CTH23	Cotton #2 {Mar 23}
+CTH24	Cotton #2 {Mar 24}
+CTK22	Cotton #2 {May 22}
+CTK23	Cotton #2 {May 23}
+CTK24	Cotton #2 {May 24}
+CTN21	Cotton #2 {Jul 21}
+CTN22	Cotton #2 {Jul 22}
+CTN23	Cotton #2 {Jul 23}
+CTV21	Cotton #2 {Oct 21}
+CTV22	Cotton #2 {Oct 22}
+CTV23	Cotton #2 {Oct 23}
+CTZ21	Cotton #2 {Dec 21}
+CTZ22	Cotton #2 {Dec 22}
+CTZ23	Cotton #2 {Dec 23}
+DEH22	MSCI EMI Index {Mar 22}
+DEH23	MSCI EMI Index {Mar 23}
+DEH24	MSCI EMI Index {Mar 24}
+DEM21	MSCI EMI Index {Jun 21}
+DEM22	MSCI EMI Index {Jun 22}
+DEM23	MSCI EMI Index {Jun 23}
+DEM24	MSCI EMI Index {Jun 24}
+DEU21	MSCI EMI Index {Sep 21}
+DEU22	MSCI EMI Index {Sep 22}
+DEU23	MSCI EMI Index {Sep 23}
+DEZ21	MSCI EMI Index {Dec 21}
+DEZ22	MSCI EMI Index {Dec 22}
+DEZ23	MSCI EMI Index {Dec 23}
+DIH22	MSCI EAFE Index {Mar 22}
+DIH23	MSCI EAFE Index {Mar 23}
+DIH24	MSCI EAFE Index {Mar 24}
+DIM21	MSCI EAFE Index {Jun 21}
+DIM22	MSCI EAFE Index {Jun 22}
+DIM23	MSCI EAFE Index {Jun 23}
+DIM24	MSCI EAFE Index {Jun 24}
+DIU21	MSCI EAFE Index {Sep 21}
+DIU22	MSCI EAFE Index {Sep 22}
+DIU23	MSCI EAFE Index {Sep 23}
+DIZ21	MSCI EAFE Index {Dec 21}
+DIZ22	MSCI EAFE Index {Dec 22}
+DIZ23	MSCI EAFE Index {Dec 23}
+DNF22	Bitcoin Bakkt {Jan 22}
+DNG22	Bitcoin Bakkt {Feb 22}
+DNH22	Bitcoin Bakkt {Mar 22}
+DNJ22	Bitcoin Bakkt {Apr 22}
+DNK22	Bitcoin Bakkt {May 22}
+DNM21	Bitcoin Bakkt {Jun 21}
+DNM22	Bitcoin Bakkt {Jun 22}
+DNN21	Bitcoin Bakkt {Jul 21}
+DNQ21	Bitcoin Bakkt {Aug 21}
+DNU21	Bitcoin Bakkt {Sep 21}
+DNV21	Bitcoin Bakkt {Oct 21}
+DNX21	Bitcoin Bakkt {Nov 21}
+DNZ21	Bitcoin Bakkt {Dec 21}
+DQH22	MSCI USA Index {Mar 22}
+DQM21	MSCI USA Index {Jun 21}
+DQM22	MSCI USA Index {Jun 22}
+DQU21	MSCI USA Index {Sep 21}
+DQU22	MSCI USA Index {Sep 22}
+DQZ21	MSCI USA Index {Dec 21}
+DX	U.S. Dollar Index
+DXH22	U.S. Dollar Index {Mar 22}
+DXM21	U.S. Dollar Index {Jun 21}
+DXM22	U.S. Dollar Index {Jun 22}
+DXU21	U.S. Dollar Index {Sep 21}
+DXZ21	U.S. Dollar Index {Dec 21}
+EHH22	MSCI Europe Index {Mar 22}
+EHM21	MSCI Europe Index {Jun 21}
+EHM22	MSCI Europe Index {Jun 22}
+EHU21	MSCI Europe Index {Sep 21}
+EHU22	MSCI Europe Index {Sep 22}
+EHZ21	MSCI Europe Index {Dec 21}
+EJ	Euro/Yen
+EJH22	Euro/Yen {Mar 22}
+EJM21	Euro/Yen {Jun 21}
+EJM22	Euro/Yen {Jun 22}
+EJU21	Euro/Yen {Sep 21}
+EJZ21	Euro/Yen {Dec 21}
+EK	Krone/Krona
+EKH22	Krone/Krona {Mar 22}
+EKM21	Krone/Krona {Jun 21}
+EKM22	Krone/Krona {Jun 22}
+EKU21	Krone/Krona {Sep 21}
+EKZ21	Krone/Krona {Dec 21}
+ELH22	MSCI Europe Growth {Mar 22}
+ELM21	MSCI Europe Growth {Jun 21}
+ELM22	MSCI Europe Growth {Jun 22}
+ELU21	MSCI Europe Growth {Sep 21}
+ELU22	MSCI Europe Growth {Sep 22}
+ELZ21	MSCI Europe Growth {Dec 21}
+ENH22	MSCI Europe Value {Mar 22}
+ENM21	MSCI Europe Value {Jun 21}
+ENM22	MSCI Europe Value {Jun 22}
+ENU21	MSCI Europe Value {Sep 21}
+ENU22	MSCI Europe Value {Sep 22}
+ENZ21	MSCI Europe Value {Dec 21}
+EP	Euro/Canadian
+EPH22	Euro/Canadian {Mar 22}
+EPM21	Euro/Canadian {Jun 21}
+EPM22	Euro/Canadian {Jun 22}
+EPU21	Euro/Canadian {Sep 21}
+EPZ21	Euro/Canadian {Dec 21}
+EQ	Euro/Australian
+EQH22	Euro/Australian {Mar 22}
+EQM21	Euro/Australian {Jun 21}
+EQM22	Euro/Australian {Jun 22}
+EQU21	Euro/Australian {Sep 21}
+EQZ21	Euro/Australian {Dec 21}
+EU	Euro Futures
+EUH22	Euro Futures {Mar 22}
+EUM21	Euro Futures {Jun 21}
+EUM22	Euro Futures {Jun 22}
+EUU21	Euro Futures {Sep 21}
+EUZ21	Euro Futures {Dec 21}
+FGH22	FANG Index {Mar 22}
+FGM21	FANG Index {Jun 21}
+FGM22	FANG Index {Jun 22}
+FGU21	FANG Index {Sep 21}
+FGZ21	FANG Index {Dec 21}
+GB	Euro/Pound
+GBH22	Euro/Pound {Mar 22}
+GBM21	Euro/Pound {Jun 21}
+GBM22	Euro/Pound {Jun 22}
+GBU21	Euro/Pound {Sep 21}
+GBZ21	Euro/Pound {Dec 21}
+GN	Pound/New Zealand
+GNH22	Pound/New Zealand {Mar 22}
+GNM21	Pound/New Zealand {Jun 21}
+GNM22	Pound/New Zealand {Jun 22}
+GNU21	Pound/New Zealand {Sep 21}
+GNZ21	Pound/New Zealand {Dec 21}
+GY	Euro/Forint
+GYH22	Euro/Forint {Mar 22}
+GYM21	Euro/Forint {Jun 21}
+GYM22	Euro/Forint {Jun 22}
+GYU21	Euro/Forint {Sep 21}
+GYZ21	Euro/Forint {Dec 21}
+GZ	Euro/Koruna
+GZH22	Euro/Koruna {Mar 22}
+GZM21	Euro/Koruna {Jun 21}
+GZM22	Euro/Koruna {Jun 22}
+GZU21	Euro/Koruna {Sep 21}
+GZZ21	Euro/Koruna {Dec 21}
+H8	Brazilian Real
+HCH22	Turkish Lira/Euro {Mar 22}
+HCM21	Turkish Lira/Euro {Jun 21}
+HCM22	Turkish Lira/Euro {Jun 22}
+HCU21	Turkish Lira/Euro {Sep 21}
+HCZ21	Turkish Lira/Euro {Dec 21}
+HDH22	Turkish Lira/USD {Mar 22}
+HDM21	Turkish Lira/USD {Jun 21}
+HDM22	Turkish Lira/USD {Jun 22}
+HDU21	Turkish Lira/USD {Sep 21}
+HDZ21	Turkish Lira/USD {Dec 21}
+HY	Canadian/Yen
+HYH22	Canadian/Yen {Mar 22}
+HYM21	Canadian/Yen {Jun 21}
+HYM22	Canadian/Yen {Jun 22}
+HYU21	Canadian/Yen {Sep 21}
+HYZ21	Canadian/Yen {Dec 21}
+JJ	New Zealand Dollar
+JJH22	New Zealand Dollar {Mar 22}
+JJM21	New Zealand Dollar {Jun 21}
+JJM22	New Zealand Dollar {Jun 22}
+JJU21	New Zealand Dollar {Sep 21}
+JJZ21	New Zealand Dollar {Dec 21}
+KC	Coffee
+KCH22	Coffee {Mar 22}
+KCH23	Coffee {Mar 23}
+KCH24	Coffee {Mar 24}
+KCK22	Coffee {May 22}
+KCK23	Coffee {May 23}
+KCK24	Coffee {May 24}
+KCN21	Coffee {Jul 21}
+KCN22	Coffee {Jul 22}
+KCN23	Coffee {Jul 23}
+KCU21	Coffee {Sep 21}
+KCU22	Coffee {Sep 22}
+KCU23	Coffee {Sep 23}
+KCZ21	Coffee {Dec 21}
+KCZ22	Coffee {Dec 22}
+KCZ23	Coffee {Dec 23}
+KJ	Krona/Yen
+KJH22	Krona/Yen {Mar 22}
+KJM21	Krona/Yen {Jun 21}
+KJM22	Krona/Yen {Jun 22}
+KJU21	Krona/Yen {Sep 21}
+KJZ21	Krona/Yen {Dec 21}
+KRH22	Israel Shekel {Mar 22}
+KRM21	Israel Shekel {Jun 21}
+KRM22	Israel Shekel {Jun 22}
+KRU21	Israel Shekel {Sep 21}
+KRZ21	Israel Shekel {Dec 21}
+KU	Dollar/Krona
+KUH22	Dollar/Krona {Mar 22}
+KUM21	Dollar/Krona {Jun 21}
+KUM22	Dollar/Krona {Jun 22}
+KUU21	Dollar/Krona {Sep 21}
+KUZ21	Dollar/Krona {Dec 21}
+KY	Krone/Yen
+KYH22	Krone/Yen {Mar 22}
+KYM21	Krone/Yen {Jun 21}
+KYM22	Krone/Yen {Jun 22}
+KYU21	Krone/Yen {Sep 21}
+KYZ21	Krone/Yen {Dec 21}
+L1H22	MSCI ACWI ex-US NTR {Mar 22}
+L1M21	MSCI ACWI ex-US NTR {Jun 21}
+L1M22	MSCI ACWI ex-US NTR {Jun 22}
+L1U21	MSCI ACWI ex-US NTR {Sep 21}
+L1U22	MSCI ACWI ex-US NTR {Sep 22}
+L1Z21	MSCI ACWI ex-US NTR {Dec 21}
+L3H22	MSCI ACWI NTR Index {Mar 22}
+L3M21	MSCI ACWI NTR Index {Jun 21}
+L3M22	MSCI ACWI NTR Index {Jun 22}
+L3U21	MSCI ACWI NTR Index {Sep 21}
+L3U22	MSCI ACWI NTR Index {Sep 22}
+L3Z21	MSCI ACWI NTR Index {Dec 21}
+L5H22	MSCI EM NTR Index {Mar 22}
+L5H23	MSCI EM NTR Index {Mar 23}
+L5H24	MSCI EM NTR Index {Mar 24}
+L5M21	MSCI EM NTR Index {Jun 21}
+L5M22	MSCI EM NTR Index {Jun 22}
+L5M23	MSCI EM NTR Index {Jun 23}
+L5M24	MSCI EM NTR Index {Jun 24}
+L5U21	MSCI EM NTR Index {Sep 21}
+L5U22	MSCI EM NTR Index {Sep 22}
+L5U23	MSCI EM NTR Index {Sep 23}
+L5Z21	MSCI EM NTR Index {Dec 21}
+L5Z22	MSCI EM NTR Index {Dec 22}
+L5Z23	MSCI EM NTR Index {Dec 23}
+MIH22	MSCI USA Growth {Mar 22}
+MIM21	MSCI USA Growth {Jun 21}
+MIM22	MSCI USA Growth {Jun 22}
+MIU21	MSCI USA Growth {Sep 21}
+MIU22	MSCI USA Growth {Sep 22}
+MIZ21	MSCI USA Growth {Dec 21}
+NS	Dollar/Krone
+NSH22	Dollar/Krone {Mar 22}
+NSM21	Dollar/Krone {Jun 21}
+NSM22	Dollar/Krone {Jun 22}
+NSU21	Dollar/Krone {Sep 21}
+NSZ21	Dollar/Krone {Dec 21}
+OJ	Orange Juice
+OJF22	Orange Juice {Jan 22}
+OJF23	Orange Juice {Jan 23}
+OJF24	Orange Juice {Jan 24}
+OJH22	Orange Juice {Mar 22}
+OJH23	Orange Juice {Mar 23}
+OJH24	Orange Juice {Mar 24}
+OJK22	Orange Juice {May 22}
+OJK23	Orange Juice {May 23}
+OJK24	Orange Juice {May 24}
+OJN21	Orange Juice {Jul 21}
+OJN22	Orange Juice {Jul 22}
+OJN23	Orange Juice {Jul 23}
+OJU21	Orange Juice {Sep 21}
+OJU22	Orange Juice {Sep 22}
+OJU23	Orange Juice {Sep 23}
+OJX21	Orange Juice {Nov 21}
+OJX22	Orange Juice {Nov 22}
+OJX23	Orange Juice {Nov 23}
+OL	Euro/Krone
+OLH22	Euro/Krone {Mar 22}
+OLM21	Euro/Krone {Jun 21}
+OLM22	Euro/Krone {Jun 22}
+OLU21	Euro/Krone {Sep 21}
+OLZ21	Euro/Krone {Dec 21}
+OR	Dollar/Rand
+ORH22	Dollar/Rand {Mar 22}
+ORH23	Dollar/Rand {Mar 23}
+ORH24	Dollar/Rand {Mar 24}
+ORH25	Dollar/Rand {Mar 25}
+ORH26	Dollar/Rand {Mar 26}
+ORM21	Dollar/Rand {Jun 21}
+ORM22	Dollar/Rand {Jun 22}
+ORM23	Dollar/Rand {Jun 23}
+ORM24	Dollar/Rand {Jun 24}
+ORM25	Dollar/Rand {Jun 25}
+ORM26	Dollar/Rand {Jun 26}
+ORU21	Dollar/Rand {Sep 21}
+ORU22	Dollar/Rand {Sep 22}
+ORU23	Dollar/Rand {Sep 23}
+ORU24	Dollar/Rand {Sep 24}
+ORU25	Dollar/Rand {Sep 25}
+ORZ21	Dollar/Rand {Dec 21}
+ORZ22	Dollar/Rand {Dec 22}
+ORZ23	Dollar/Rand {Dec 23}
+ORZ24	Dollar/Rand {Dec 24}
+ORZ25	Dollar/Rand {Dec 25}
+PK	Pound/Krone
+PKH22	Pound/Krone {Mar 22}
+PKM21	Pound/Krone {Jun 21}
+PKM22	Pound/Krone {Jun 22}
+PKU21	Pound/Krone {Sep 21}
+PKZ21	Pound/Krone {Dec 21}
+PP	Japanese Yen
+PPH22	Japanese Yen {Mar 22}
+PPM21	Japanese Yen {Jun 21}
+PPM22	Japanese Yen {Jun 22}
+PPU21	Japanese Yen {Sep 21}
+PPZ21	Japanese Yen {Dec 21}
+PR	Canadian Dollar
+PRH22	Canadian Dollar {Mar 22}
+PRM21	Canadian Dollar {Jun 21}
+PRM22	Canadian Dollar {Jun 22}
+PRU21	Canadian Dollar {Sep 21}
+PRZ21	Canadian Dollar {Dec 21}
+PS	Pound/Krona
+PSH22	Pound/Krona {Mar 22}
+PSM21	Pound/Krona {Jun 21}
+PSM22	Pound/Krona {Jun 22}
+PSU21	Pound/Krona {Sep 21}
+PSZ21	Pound/Krona {Dec 21}
+PV	Pound/Australian
+PVH22	Pound/Australian {Mar 22}
+PVM21	Pound/Australian {Jun 21}
+PVM22	Pound/Australian {Jun 22}
+PVU21	Pound/Australian {Sep 21}
+PVZ21	Pound/Australian {Dec 21}
+PW	Pound/Canadian
+PWH22	Pound/Canadian {Mar 22}
+PWM21	Pound/Canadian {Jun 21}
+PWM22	Pound/Canadian {Jun 22}
+PWU21	Pound/Canadian {Sep 21}
+PWZ21	Pound/Canadian {Dec 21}
+PX	Pound/Rand
+PXH22	Pound/Rand {Mar 22}
+PXM21	Pound/Rand {Jun 21}
+PXM22	Pound/Rand {Jun 22}
+PXU21	Pound/Rand {Sep 21}
+PXZ21	Pound/Rand {Dec 21}
+PY	Euro/Rand
+PYH22	Euro/Rand {Mar 22}
+PYM21	Euro/Rand {Jun 21}
+PYM22	Euro/Rand {Jun 22}
+PYU21	Euro/Rand {Sep 21}
+PYZ21	Euro/Rand {Dec 21}
+PZ	Swiss Franc
+PZH22	Swiss Franc {Mar 22}
+PZM21	Swiss Franc {Jun 21}
+PZM22	Swiss Franc {Jun 22}
+PZU21	Swiss Franc {Sep 21}
+PZZ21	Swiss Franc {Dec 21}
+R1H22	MSCI Canada Index {Mar 22}
+R1M21	MSCI Canada Index {Jun 21}
+R1M22	MSCI Canada Index {Jun 22}
+R1U21	MSCI Canada Index {Sep 21}
+R1U22	MSCI Canada Index {Sep 22}
+R1Z21	MSCI Canada Index {Dec 21}
+R2H22	MSCI World Index {Mar 22}
+R2M21	MSCI World Index {Jun 21}
+R2M22	MSCI World Index {Jun 22}
+R2U21	MSCI World Index {Sep 21}
+R2U22	MSCI World Index {Sep 22}
+R2Z21	MSCI World Index {Dec 21}
+RK	Euro/Krona
+RKH22	Euro/Krona {Mar 22}
+RKM21	Euro/Krona {Jun 21}
+RKM22	Euro/Krona {Jun 22}
+RKU21	Euro/Krona {Sep 21}
+RKZ21	Euro/Krona {Dec 21}
+RZ	Euro/Swiss
+RZH22	Euro/Swiss {Mar 22}
+RZM21	Euro/Swiss {Jun 21}
+RZM22	Euro/Swiss {Jun 22}
+RZU21	Euro/Swiss {Sep 21}
+RZZ21	Euro/Swiss {Dec 21}
+S2H22	MSCI EMLA Index {Mar 22}
+S2M21	MSCI EMLA Index {Jun 21}
+S2M22	MSCI EMLA Index {Jun 22}
+S2U21	MSCI EMLA Index {Sep 21}
+S2U22	MSCI EMLA Index {Sep 22}
+S2Z21	MSCI EMLA Index {Dec 21}
+SB	Sugar #11
+SBH22	Sugar #11 {Mar 22}
+SBH23	Sugar #11 {Mar 23}
+SBH24	Sugar #11 {Mar 24}
+SBK22	Sugar #11 {May 22}
+SBK23	Sugar #11 {May 23}
+SBK24	Sugar #11 {May 24}
+SBN21	Sugar #11 {Jul 21}
+SBN22	Sugar #11 {Jul 22}
+SBN23	Sugar #11 {Jul 23}
+SBV21	Sugar #11 {Oct 21}
+SBV22	Sugar #11 {Oct 22}
+SBV23	Sugar #11 {Oct 23}
+SDF22	Sugar #16 {Jan 22}
+SDF23	Sugar #16 {Jan 23}
+SDH22	Sugar #16 {Mar 22}
+SDH23	Sugar #16 {Mar 23}
+SDK22	Sugar #16 {May 22}
+SDK23	Sugar #16 {May 23}
+SDN22	Sugar #16 {Jul 22}
+SDU21	Sugar #16 {Sep 21}
+SDU22	Sugar #16 {Sep 22}
+SDX21	Sugar #16 {Nov 21}
+SDX22	Sugar #16 {Nov 22}
+SS	Pound/Swiss
+SSH22	Pound/Swiss {Mar 22}
+SSM21	Pound/Swiss {Jun 21}
+SSM22	Pound/Swiss {Jun 22}
+SSU21	Pound/Swiss {Sep 21}
+SSZ21	Pound/Swiss {Dec 21}
+SY	Pound/Yen
+SYH22	Pound/Yen {Mar 22}
+SYM21	Pound/Yen {Jun 21}
+SYM22	Pound/Yen {Jun 22}
+SYU21	Pound/Yen {Sep 21}
+SYZ21	Pound/Yen {Dec 21}
+UY	Dollar/Forint
+UYH22	Dollar/Forint {Mar 22}
+UYM21	Dollar/Forint {Jun 21}
+UYM22	Dollar/Forint {Jun 22}
+UYU21	Dollar/Forint {Sep 21}
+UYZ21	Dollar/Forint {Dec 21}
+UZ	Dollar/Koruna
+UZH22	Dollar/Koruna {Mar 22}
+UZM21	Dollar/Koruna {Jun 21}
+UZM22	Dollar/Koruna {Jun 22}
+UZU21	Dollar/Koruna {Sep 21}
+UZZ21	Dollar/Koruna {Dec 21}
+YA	Aussie/Yen
+YAH22	Aussie/Yen {Mar 22}
+YAM21	Aussie/Yen {Jun 21}
+YAM22	Aussie/Yen {Jun 22}
+YAU21	Aussie/Yen {Sep 21}
+YAZ21	Aussie/Yen {Dec 21}
+YGG22	Gold mini-sized {Feb 22}
+YGG23	Gold mini-sized {Feb 23}
+YGJ22	Gold mini-sized {Apr 22}
+YGJ23	Gold mini-sized {Apr 23}
+YGM21	Gold mini-sized {Jun 21}
+YGM22	Gold mini-sized {Jun 22}
+YGM23	Gold mini-sized {Jun 23}
+YGM24	Gold mini-sized {Jun 24}
+YGM25	Gold mini-sized {Jun 25}
+YGM26	Gold mini-sized {Jun 26}
+YGN21	Gold mini-sized {Jul 21}
+YGQ21	Gold mini-sized {Aug 21}
+YGQ22	Gold mini-sized {Aug 22}
+YGU21	Gold mini-sized {Sep 21}
+YGV21	Gold mini-sized {Oct 21}
+YGV22	Gold mini-sized {Oct 22}
+YGZ21	Gold mini-sized {Dec 21}
+YGZ22	Gold mini-sized {Dec 22}
+YGZ23	Gold mini-sized {Dec 23}
+YGZ24	Gold mini-sized {Dec 24}
+YGZ25	Gold mini-sized {Dec 25}
+YIF22	Silver mini-sized {Jan 22}
+YIF23	Silver mini-sized {Jan 23}
+YIH22	Silver mini-sized {Mar 22}
+YIH23	Silver mini-sized {Mar 23}
+YIK22	Silver mini-sized {May 22}
+YIK23	Silver mini-sized {May 23}
+YIM21	Silver mini-sized {Jun 21}
+YIN21	Silver mini-sized {Jul 21}
+YIN22	Silver mini-sized {Jul 22}
+YIN23	Silver mini-sized {Jul 23}
+YIN24	Silver mini-sized {Jul 24}
+YIN25	Silver mini-sized {Jul 25}
+YIQ21	Silver mini-sized {Aug 21}
+YIU21	Silver mini-sized {Sep 21}
+YIU22	Silver mini-sized {Sep 22}
+YIZ21	Silver mini-sized {Dec 21}
+YIZ22	Silver mini-sized {Dec 22}
+YIZ23	Silver mini-sized {Dec 23}
+YIZ24	Silver mini-sized {Dec 24}
+YIZ25	Silver mini-sized {Dec 25}
+YO	Mexican Peso
+YOH22	Mexican Peso {Mar 22}
+YOM21	Mexican Peso {Jun 21}
+YOM22	Mexican Peso {Jun 22}
+YOU21	Mexican Peso {Sep 21}
+YOZ21	Mexican Peso {Dec 21}
+YP	Pound/Dollar
+YPH22	Pound/Dollar {Mar 22}
+YPM21	Pound/Dollar {Jun 21}
+YPM22	Pound/Dollar {Jun 22}
+YPU21	Pound/Dollar {Sep 21}
+YPZ21	Pound/Dollar {Dec 21}
+ZGG22	ICE Gold 100-oz {Feb 22}
+ZGG23	ICE Gold 100-oz {Feb 23}
+ZGJ22	ICE Gold 100-oz {Apr 22}
+ZGJ23	ICE Gold 100-oz {Apr 23}
+ZGM21	ICE Gold 100-oz {Jun 21}
+ZGM22	ICE Gold 100-oz {Jun 22}
+ZGM23	ICE Gold 100-oz {Jun 23}
+ZGM24	ICE Gold 100-oz {Jun 24}
+ZGM25	ICE Gold 100-oz {Jun 25}
+ZGM26	ICE Gold 100-oz {Jun 26}
+ZGN21	ICE Gold 100-oz {Jul 21}
+ZGQ21	ICE Gold 100-oz {Aug 21}
+ZGQ22	ICE Gold 100-oz {Aug 22}
+ZGU21	ICE Gold 100-oz {Sep 21}
+ZGV21	ICE Gold 100-oz {Oct 21}
+ZGV22	ICE Gold 100-oz {Oct 22}
+ZGZ21	ICE Gold 100-oz {Dec 21}
+ZGZ22	ICE Gold 100-oz {Dec 22}
+ZGZ23	ICE Gold 100-oz {Dec 23}
+ZGZ24	ICE Gold 100-oz {Dec 24}
+ZGZ25	ICE Gold 100-oz {Dec 25}
+ZIF22	ICE Silver 5000-oz {Jan 22}
+ZIF23	ICE Silver 5000-oz {Jan 23}
+ZIH22	ICE Silver 5000-oz {Mar 22}
+ZIH23	ICE Silver 5000-oz {Mar 23}
+ZIK22	ICE Silver 5000-oz {May 22}
+ZIK23	ICE Silver 5000-oz {May 23}
+ZIM21	ICE Silver 5000-oz {Jun 21}
+ZIN21	ICE Silver 5000-oz {Jul 21}
+ZIN22	ICE Silver 5000-oz {Jul 22}
+ZIN23	ICE Silver 5000-oz {Jul 23}
+ZIN24	ICE Silver 5000-oz {Jul 24}
+ZIN25	ICE Silver 5000-oz {Jul 25}
+ZIQ21	ICE Silver 5000-oz {Aug 21}
+ZIU21	ICE Silver 5000-oz {Sep 21}
+ZIU22	ICE Silver 5000-oz {Sep 22}
+ZIZ21	ICE Silver 5000-oz {Dec 21}
+ZIZ22	ICE Silver 5000-oz {Dec 22}
+ZIZ23	ICE Silver 5000-oz {Dec 23}
+ZIZ24	ICE Silver 5000-oz {Dec 24}
+ZIZ25	ICE Silver 5000-oz {Dec 25}
+ZJ	New Zealand/Yen
+ZJH22	New Zealand/Yen {Mar 22}
+ZJM21	New Zealand/Yen {Jun 21}
+ZJM22	New Zealand/Yen {Jun 22}
+ZJU21	New Zealand/Yen {Sep 21}
+ZJZ21	New Zealand/Yen {Dec 21}
+ZY	Swiss/Yen
+ZYH22	Swiss/Yen {Mar 22}
+ZYM21	Swiss/Yen {Jun 21}
+ZYM22	Swiss/Yen {Jun 22}
+ZYU21	Swiss/Yen {Sep 21}
+ZYZ21	Swiss/Yen {Dec 21}

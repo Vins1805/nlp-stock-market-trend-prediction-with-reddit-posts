@@ -1,0 +1,287 @@
+Symbol	Description
+A7.C	MSCI EMI Continuation
+A7H22	MSCI EMI {Mar 22}
+A7H23	MSCI EMI {Mar 23}
+A7H24	MSCI EMI {Mar 24}
+A7M21	MSCI EMI {Jun 21}
+A7M22	MSCI EMI {Jun 22}
+A7M23	MSCI EMI {Jun 23}
+A7M24	MSCI EMI {Jun 24}
+A7U21	MSCI EMI {Sep 21}
+A7U22	MSCI EMI {Sep 22}
+A7U23	MSCI EMI {Sep 23}
+A7Z21	MSCI EMI {Dec 21}
+A7Z22	MSCI EMI {Dec 22}
+A7Z23	MSCI EMI {Dec 23}
+A8.C	MSCI Far East ex-Japan Continuation
+A8H22	MSCI Far East ex-Japan {Mar 22}
+A8H23	MSCI Far East ex-Japan {Mar 23}
+A8H24	MSCI Far East ex-Japan {Mar 24}
+A8M21	MSCI Far East ex-Japan {Jun 21}
+A8M22	MSCI Far East ex-Japan {Jun 22}
+A8M23	MSCI Far East ex-Japan {Jun 23}
+A8M24	MSCI Far East ex-Japan {Jun 24}
+A8U21	MSCI Far East ex-Japan {Sep 21}
+A8U22	MSCI Far East ex-Japan {Sep 22}
+A8U23	MSCI Far East ex-Japan {Sep 23}
+A8Z21	MSCI Far East ex-Japan {Dec 21}
+A8Z22	MSCI Far East ex-Japan {Dec 22}
+A8Z23	MSCI Far East ex-Japan {Dec 23}
+AE	Wheat {Mar 13}
+CA.C	No. 7 Cocoa Continuation
+CAH22	No. 7 Cocoa {Mar 22}
+CAH23	No. 7 Cocoa {Mar 23}
+CAK22	No. 7 Cocoa {May 22}
+CAK23	No. 7 Cocoa {May 23}
+CAN21	No. 7 Cocoa {Jul 21}
+CAN22	No. 7 Cocoa {Jul 22}
+CAU21	No. 7 Cocoa {Sep 21}
+CAU22	No. 7 Cocoa {Sep 22}
+CAZ21	No. 7 Cocoa {Dec 21}
+CAZ22	No. 7 Cocoa {Dec 22}
+EG.C	EuroDollar Continuation
+EGH22	EuroDollar {Mar 22}
+EGH23	EuroDollar {Mar 23}
+EGH24	EuroDollar {Mar 24}
+EGH25	EuroDollar {Mar 25}
+EGH26	EuroDollar {Mar 26}
+EGM21	EuroDollar {Jun 21}
+EGM22	EuroDollar {Jun 22}
+EGM23	EuroDollar {Jun 23}
+EGM24	EuroDollar {Jun 24}
+EGM25	EuroDollar {Jun 25}
+EGM26	EuroDollar {Jun 26}
+EGN21	EuroDollar {Jul 21}
+EGQ21	EuroDollar {Aug 21}
+EGU21	EuroDollar {Sep 21}
+EGU22	EuroDollar {Sep 22}
+EGU23	EuroDollar {Sep 23}
+EGU24	EuroDollar {Sep 24}
+EGU25	EuroDollar {Sep 25}
+EGU26	EuroDollar {Sep 26}
+EGZ21	EuroDollar {Dec 21}
+EGZ22	EuroDollar {Dec 22}
+EGZ23	EuroDollar {Dec 23}
+EGZ24	EuroDollar {Dec 24}
+EGZ25	EuroDollar {Dec 25}
+F6.C	MSCI World NTR Index Continuation
+F6H22	MSCI World NTR Index {Mar 22}
+F6H23	MSCI World NTR Index {Mar 23}
+F6H24	MSCI World NTR Index {Mar 24}
+F6M21	MSCI World NTR Index {Jun 21}
+F6M22	MSCI World NTR Index {Jun 22}
+F6M23	MSCI World NTR Index {Jun 23}
+F6M24	MSCI World NTR Index {Jun 24}
+F6U21	MSCI World NTR Index {Sep 21}
+F6U22	MSCI World NTR Index {Sep 22}
+F6U23	MSCI World NTR Index {Sep 23}
+F6Z21	MSCI World NTR Index {Dec 21}
+F6Z22	MSCI World NTR Index {Dec 22}
+F6Z23	MSCI World NTR Index {Dec 23}
+FH22	3-Month Euroswiss {Mar 22}
+FH23	3-Month Euroswiss {Mar 23}
+FH24	3-Month Euroswiss {Mar 24}
+FH25	3-Month Euroswiss {Mar 25}
+FJ	1-Month EONIA {Apr 11}
+FK	1-Month EONIA {Apr 11}
+FM21	3-Month Euroswiss {Jun 21}
+FM22	3-Month Euroswiss {Jun 22}
+FM23	3-Month Euroswiss {Jun 23}
+FM24	3-Month Euroswiss {Jun 24}
+FM25	3-Month Euroswiss {Jun 25}
+FU21	3-Month Euroswiss {Sep 21}
+FU22	3-Month Euroswiss {Sep 22}
+FU23	3-Month Euroswiss {Sep 23}
+FU24	3-Month Euroswiss {Sep 24}
+FZ21	3-Month Euroswiss {Dec 21}
+FZ22	3-Month Euroswiss {Dec 22}
+FZ23	3-Month Euroswiss {Dec 23}
+FZ24	3-Month Euroswiss {Dec 24}
+GH22	10-Year Gilt {Mar 22}
+GM21	10-Year Gilt {Jun 21}
+GU21	10-Year Gilt {Sep 21}
+GZ21	10-Year Gilt {Dec 21}
+IB.C	FTSE 100 Dividend Index Continuation
+IBZ21	FTSE 100 Dividend Index {Dec 21}
+IBZ22	FTSE 100 Dividend Index {Dec 22}
+IBZ23	FTSE 100 Dividend Index {Dec 23}
+IBZ24	FTSE 100 Dividend Index {Dec 24}
+IBZ25	FTSE 100 Dividend Index {Dec 25}
+IBZ26	FTSE 100 Dividend Index {Dec 26}
+IBZ27	FTSE 100 Dividend Index {Dec 27}
+IJ.C	1-Month EONIA Continuation
+IJF22	1-Month EONIA {Jan 22}
+IJF23	1-Month EONIA {Jan 23}
+IJG22	1-Month EONIA {Feb 22}
+IJG23	1-Month EONIA {Feb 23}
+IJH22	1-Month EONIA {Mar 22}
+IJH23	1-Month EONIA {Mar 23}
+IJJ22	1-Month EONIA {Apr 22}
+IJJ23	1-Month EONIA {Apr 23}
+IJK22	1-Month EONIA {May 22}
+IJK23	1-Month EONIA {May 23}
+IJM21	1-Month EONIA {Jun 21}
+IJM22	1-Month EONIA {Jun 22}
+IJM23	1-Month EONIA {Jun 23}
+IJN21	1-Month EONIA {Jul 21}
+IJN22	1-Month EONIA {Jul 22}
+IJQ21	1-Month EONIA {Aug 21}
+IJQ22	1-Month EONIA {Aug 22}
+IJU21	1-Month EONIA {Sep 21}
+IJU22	1-Month EONIA {Sep 22}
+IJV21	1-Month EONIA {Oct 21}
+IJV22	1-Month EONIA {Oct 22}
+IJX21	1-Month EONIA {Nov 21}
+IJX22	1-Month EONIA {Nov 22}
+IJZ21	1-Month EONIA {Dec 21}
+IJZ22	1-Month EONIA {Dec 22}
+IM.C	3-Month EuriBor Continuation
+IMH22	3-Month EuriBor {Mar 22}
+IMH23	3-Month EuriBor {Mar 23}
+IMH24	3-Month EuriBor {Mar 24}
+IMH25	3-Month EuriBor {Mar 25}
+IMH26	3-Month EuriBor {Mar 26}
+IMH27	3-Month EuriBor {Mar 27}
+IMM21	3-Month EuriBor {Jun 21}
+IMM22	3-Month EuriBor {Jun 22}
+IMM23	3-Month EuriBor {Jun 23}
+IMM24	3-Month EuriBor {Jun 24}
+IMM25	3-Month EuriBor {Jun 25}
+IMM26	3-Month EuriBor {Jun 26}
+IMM27	3-Month EuriBor {Jun 27}
+IMN21	3-Month EuriBor {Jul 21}
+IMQ21	3-Month EuriBor {Aug 21}
+IMU21	3-Month EuriBor {Sep 21}
+IMU22	3-Month EuriBor {Sep 22}
+IMU23	3-Month EuriBor {Sep 23}
+IMU24	3-Month EuriBor {Sep 24}
+IMU25	3-Month EuriBor {Sep 25}
+IMU26	3-Month EuriBor {Sep 26}
+IMV21	3-Month EuriBor {Oct 21}
+IMX21	3-Month EuriBor {Nov 21}
+IMZ21	3-Month EuriBor {Dec 21}
+IMZ22	3-Month EuriBor {Dec 22}
+IMZ23	3-Month EuriBor {Dec 23}
+IMZ24	3-Month EuriBor {Dec 24}
+IMZ25	3-Month EuriBor {Dec 25}
+IMZ26	3-Month EuriBor {Dec 26}
+L7.C	MSCI Europe NTR Index Continuation
+L7H22	MSCI Europe NTR Index {Mar 22}
+L7H23	MSCI Europe NTR Index {Mar 23}
+L7H24	MSCI Europe NTR Index {Mar 24}
+L7M21	MSCI Europe NTR Index {Jun 21}
+L7M22	MSCI Europe NTR Index {Jun 22}
+L7M23	MSCI Europe NTR Index {Jun 23}
+L7M24	MSCI Europe NTR Index {Jun 24}
+L7U21	MSCI Europe NTR Index {Sep 21}
+L7U22	MSCI Europe NTR Index {Sep 22}
+L7U23	MSCI Europe NTR Index {Sep 23}
+L7Z21	MSCI Europe NTR Index {Dec 21}
+L7Z22	MSCI Europe NTR Index {Dec 22}
+L7Z23	MSCI Europe NTR Index {Dec 23}
+LH22	3-Month Sterling {Mar 22}
+LH23	3-Month Sterling {Mar 23}
+LH24	3-Month Sterling {Mar 24}
+LH25	3-Month Sterling {Mar 25}
+LH26	3-Month Sterling {Mar 26}
+LH27	3-Month Sterling {Mar 27}
+LM21	3-Month Sterling {Jun 21}
+LM22	3-Month Sterling {Jun 22}
+LM23	3-Month Sterling {Jun 23}
+LM24	3-Month Sterling {Jun 24}
+LM25	3-Month Sterling {Jun 25}
+LM26	3-Month Sterling {Jun 26}
+LM27	3-Month Sterling {Jun 27}
+LN21	3-Month Sterling {Jul 21}
+LQ21	3-Month Sterling {Aug 21}
+LU21	3-Month Sterling {Sep 21}
+LU22	3-Month Sterling {Sep 22}
+LU23	3-Month Sterling {Sep 23}
+LU24	3-Month Sterling {Sep 24}
+LU25	3-Month Sterling {Sep 25}
+LU26	3-Month Sterling {Sep 26}
+LW.C	Wheat Continuation
+LWF22	Wheat {Jan 22}
+LWF23	Wheat {Jan 23}
+LWH22	Wheat {Mar 22}
+LWH23	Wheat {Mar 23}
+LWK22	Wheat {May 22}
+LWK23	Wheat {May 23}
+LWN21	Wheat {Jul 21}
+LWN22	Wheat {Jul 22}
+LWX21	Wheat {Nov 21}
+LWX22	Wheat {Nov 22}
+LWX23	Wheat {Nov 23}
+LZ21	3-Month Sterling {Dec 21}
+LZ22	3-Month Sterling {Dec 22}
+LZ23	3-Month Sterling {Dec 23}
+LZ24	3-Month Sterling {Dec 24}
+LZ25	3-Month Sterling {Dec 25}
+LZ26	3-Month Sterling {Dec 26}
+QB.C	Ultra Gilt Continuation
+QBH22	Ultra Gilt {Mar 22}
+QBM21	Ultra Gilt {Jun 21}
+QBU21	Ultra Gilt {Sep 21}
+QBZ21	Ultra Gilt {Dec 21}
+QD.C	5-Year Gilt Continuation
+QDM21	5-Year Gilt {Jun 21}
+QDU21	5-Year Gilt {Sep 21}
+QDZ21	5-Year Gilt {Dec 21}
+QE.C	2-Year Gilt Continuation
+QEM21	2-Year Gilt {Jun 21}
+QEU21	2-Year Gilt {Sep 21}
+QEZ21	2-Year Gilt {Dec 21}
+RM.C	Robusta Coffee 10-T Continuation
+RMF22	Robusta Coffee 10-T {Jan 22}
+RMF23	Robusta Coffee 10-T {Jan 23}
+RMH22	Robusta Coffee 10-T {Mar 22}
+RMK22	Robusta Coffee 10-T {May 22}
+RMN21	Robusta Coffee 10-T {Jul 21}
+RMN22	Robusta Coffee 10-T {Jul 22}
+RMU21	Robusta Coffee 10-T {Sep 21}
+RMU22	Robusta Coffee 10-T {Sep 22}
+RMX21	Robusta Coffee 10-T {Nov 21}
+RMX22	Robusta Coffee 10-T {Nov 22}
+SW.C	No. 5 White Sugar Continuation
+SWH22	No. 5 White Sugar {Mar 22}
+SWK22	No. 5 White Sugar {May 22}
+SWQ21	No. 5 White Sugar {Aug 21}
+SWQ22	No. 5 White Sugar {Aug 22}
+SWV21	No. 5 White Sugar {Oct 21}
+SWV22	No. 5 White Sugar {Oct 22}
+SWZ21	No. 5 White Sugar {Dec 21}
+SWZ22	No. 5 White Sugar {Dec 22}
+VF.C	5-Yr Euro Swapnote Continuation
+VFM21	5-Yr Euro Swapnote {Jun 21}
+VFU21	5-Yr Euro Swapnote {Sep 21}
+VFZ21	5-Yr Euro Swapnote {Dec 21}
+VT.C	10-Yr Euro Swapnote Continuation
+VTM21	10-Yr Euro Swapnote {Jun 21}
+VTU21	10-Yr Euro Swapnote {Sep 21}
+VTZ21	10-Yr Euro Swapnote {Dec 21}
+VW.C	2-Yr Euro Swapnote Continuation
+VWM21	2-Yr Euro Swapnote {Jun 21}
+VWU21	2-Yr Euro Swapnote {Sep 21}
+VWZ21	2-Yr Euro Swapnote {Dec 21}
+VX.C	2-Yr Dollar Swapnote Continuation
+VXM21	2-Yr Dollar Swapnote {Jun 21}
+VXU21	2-Yr Dollar Swapnote {Sep 21}
+VXZ21	2-Yr Dollar Swapnote {Dec 21}
+VY.C	5-Yr Dollar Swapnote Continuation
+VYM21	5-Yr Dollar Swapnote {Jun 21}
+VYU21	5-Yr Dollar Swapnote {Sep 21}
+VYZ21	5-Yr Dollar Swapnote {Dec 21}
+VZ.C	10Yr Dollar Swapnote Continuation
+VZM21	10Yr Dollar Swapnote {Jun 21}
+VZU21	10Yr Dollar Swapnote {Sep 21}
+VZZ21	10Yr Dollar Swapnote {Dec 21}
+XH22	FTSE 100 {Mar 22}
+XM21	FTSE 100 {Jun 21}
+XM22	FTSE 100 {Jun 22}
+XU21	FTSE 100 {Sep 21}
+XZ21	FTSE 100 {Dec 21}
+YH22	FTSE 250 {Mar 22}
+YM21	FTSE 250 {Jun 21}
+YM22	FTSE 250 {Jun 22}
+YU21	FTSE 250 {Sep 21}
+YZ21	FTSE 250 {Dec 21}

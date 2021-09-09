@@ -1,0 +1,8 @@
+Symbol	Description
+M2H21	
+M2M21	
+M2U21	
+VI	S&P 500 VIX
+VI.C	S&P 500 VIX Continuation
+VIM21	
+VIN21	

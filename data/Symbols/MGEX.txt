@@ -1,0 +1,41 @@
+Symbol	Description
+DW	Durum Wheat
+IC	NCI National Corn
+ICM21	NCI National Corn {Jun 21}
+ICN21	NCI National Corn {Jul 21}
+ICQ21	NCI National Corn {Aug 21}
+IH	HRWI Hard Red
+IHM21	HRWI Hard Red {Jun 21}
+IHN21	HRWI Hard Red {Jul 21}
+IHQ21	HRWI Hard Red {Aug 21}
+IP	HRSI Hard Red Spring
+IPM21	HRSI Hard Red Spring {Jun 21}
+IPN21	HRSI Hard Red Spring {Jul 21}
+IPQ21	HRSI Hard Red Spring {Aug 21}
+IS	NSI National Soybean
+ISM21	NSI National Soybean {Jun 21}
+ISN21	NSI National Soybean {Jul 21}
+ISQ21	NSI National Soybean {Aug 21}
+IW	SRWI Soft Red Wheat
+IWM21	SRWI Soft Red Wheat {Jun 21}
+IWN21	SRWI Soft Red Wheat {Jul 21}
+IWQ21	SRWI Soft Red Wheat {Aug 21}
+MW	Spring Wheat
+MW.C	Spring Wheat Continuation
+MWH22	Spring Wheat {Mar 22}
+MWK22	Spring Wheat {May 22}
+MWN21	Spring Wheat {Jul 21}
+MWN22	Spring Wheat {Jul 22}
+MWU21	Spring Wheat {Sep 21}
+MWU22	Spring Wheat {Sep 22}
+MWZ21	Spring Wheat {Dec 21}
+MWZ22	Spring Wheat {Dec 22}
+NW	White Wheat
+VV.C	Spikes Futures Continuation
+VVM21	Spikes Futures {Jun 21}
+VVN21	Spikes Futures {Jul 21}
+VVQ21	Spikes Futures {Aug 21}
+VVU21	Spikes Futures {Sep 21}
+VVV21	Spikes Futures {Oct 21}
+VVX21	Spikes Futures {Nov 21}
+VVZ21	Spikes Futures {Dec 21}
