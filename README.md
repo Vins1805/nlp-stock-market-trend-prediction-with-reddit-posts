@@ -18,13 +18,22 @@
 #### Requirements
 
 pandas 1.3.0
+
 numpy 1.18.5
+
 emoji 1.4.2
+
 nltk 3.4.5
+
 gensim 4.0.1
+
 emosent https://github.com/FintelLabs/emosent-py/archive/e5788e73e88f691b44fd5f6eda72187b559d99f2.tar.gz
+
 pyLDAvis 3.3.1
+
 yfinance 0.1.63
+
 sklearn 0.21.3
+
 plotly 5.1.0
 
