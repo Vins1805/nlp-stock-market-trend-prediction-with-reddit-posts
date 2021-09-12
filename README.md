@@ -15,14 +15,16 @@
 
 * https://www.hanser-elibrary.com/doi/book/10.3139/9783446466067
 
-#### BERT
+#### Requirements
 
-* https://link.springer.com/book/10.1007%2F978-1-4842-6664-9
+pandas 1.3.0
+numpy 1.18.5
+emoji 1.4.2
+nltk 3.4.5
+gensim 4.0.1
+emosent https://github.com/FintelLabs/emosent-py/archive/e5788e73e88f691b44fd5f6eda72187b559d99f2.tar.gz
+pyLDAvis 3.3.1
+yfinance 0.1.63
+sklearn 0.21.3
+plotly 5.1.0
 
-#### State of the Art and Trends
-
-* https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf
-
-#### Transformers
-
-* https://www.aclweb.org/anthology/2020.emnlp-demos.6.pdf
